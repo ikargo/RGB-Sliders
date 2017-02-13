@@ -58,7 +58,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <segue destination="6p3-lK-pO8" kind="show" id="4fX-kF-2RU"/>
+                                    <segue destination="6p3-lK-pO8" kind="show" identifier="openColor" id="4fX-kF-2RU"/>
                                 </connections>
                             </button>
                         </subviews>
